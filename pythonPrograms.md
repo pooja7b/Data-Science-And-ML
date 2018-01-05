@@ -1,4 +1,4 @@
-# simplePythonPrograms
+## Python Programs from Task 1
 ### 1. Take an arithmetic expression as input and solve it. 
     eg. python arithSolver.py 6+5*4/5
    Check out the short program [here](https://github.com/pooja7b/simplePythonPrograms/blob/master/arithSolver.py)
